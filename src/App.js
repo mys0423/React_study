@@ -1,9 +1,9 @@
-import Hobby from "./state/Hobby";
+import CheckboxContainer from "./map/expert/CheckboxContainer";
 
 function App() {
   return (
     <>
-      <Hobby />
+      <CheckboxContainer />
     </>  
   );
 }

@@ -61,7 +61,7 @@ export default FoodContainer;
 //     const kor = inputRef.current[0].value
 //     const eng = inputRef.current[1].value
 //     setFoods([...foods, {kor, eng}])
-//     setChecked([...checked, false])
+//     setChecked([...checked, false]) -> foods.concat
 //   }
 
 //   const handleCheckboxOnChange = (_, i) => {
